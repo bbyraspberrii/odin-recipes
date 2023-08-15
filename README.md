@@ -1,6 +1,8 @@
 # odin-recipes
 
-This project is to create a homepage consisting of links to three recipes. Each recipe has it's own page, therefore we will have three links and four pages. 
+This project is to create a homepage consisting of links to three recipes. Each recipe has it's own page, therefore we will have three links.
+
+There are four pages in total.
 
 Skills I have demonstrated:
 - created a homepage via index.html and linked each recipes using "a" elements with href, target, and rel attributes. 
