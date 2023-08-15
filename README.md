@@ -6,7 +6,7 @@ There are four pages in total.
 
 Skills I have demonstrated:
 - created a homepage via index.html and linked each recipes using "a" elements with href, target, and rel attributes. 
-- implenting html boilerplate for each html file.
+- implemented html boilerplate for each html file.
 - created different headings with "h1" and "h3" elements.
 - created paragraph breaks with "p" element.
 - created unordered ingredient lists using "ul" tags with "li" tags.
